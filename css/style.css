@@ -153,6 +153,9 @@ img{
     width: 1.7rem;
     height: 1.6rem;
 }
+.header__social-icon a{
+text-decoration: none;
+}
 .header__social-icon:not(:last-child){
     margin-right: 2rem;
 }
